@@ -1,2 +1,4 @@
 serviceaccount.yaml
 .terraform.lock.hcl
+.DS_Store
+.gitignore
